@@ -2,8 +2,7 @@
 
 
 ## Self-Assessment:
-I was able to organize think through or forecast potential impediments and break down obstacles into our deliverables so I used my communication and solve problems skills to get the team together and explain options, ideas, and solutions that we could probably work with.
-I encourage myself and my team members to share their ideas in brainstorming sessions. 
+I was able to think through or forecast potential impediments and break down obstacles into our deliverables. I used my communication and solve problems skills to get the team together and explain options, ideas, and solutions that we could probably work with. I encourage myself and my team members many times to share their ideas in brainstorming sessions.
 - #### Strengths:
 I have strong interpersonal and communication skills that help me identify the best approach/solution to take with colleagues.
 I’ve excelled at improving my online communication skills by contacting colleagues on Slack, asking for help, or communicating concerns and delays which helped a lot to stay on track with our project.
